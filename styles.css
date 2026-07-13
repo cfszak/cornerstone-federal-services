@@ -198,14 +198,9 @@ a { color: inherit; }
   margin-top: 26px;
   flex-wrap: wrap;
 }
-.hero-graphic { display: flex; justify-content: center; color: var(--navy); }
-.cornerstone-svg { width: 100%; max-width: 320px; height: auto; }
-.engraving {
-  font-family: var(--font-mono);
-  font-size: 22px;
-  fill: var(--navy);
-  letter-spacing: 0.05em;
-}
+.hero-graphic { display: flex; justify-content: center; }
+.hero-logo-img { width: 100%; max-width: 320px; height: auto; }
+.brand-mark img { display: block; height: 34px; width: auto; }
 
 /* ===== Sections ===== */
 .section { padding: 76px 24px; }
